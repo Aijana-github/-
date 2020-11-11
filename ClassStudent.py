@@ -16,4 +16,4 @@ emir.sex = 'male'
 baizak = Student('Baizak','Razer')
 baizak.height = 182
 baizak.sex = 'male'
-print(vasya,emir,baizak)
+print(vasya,emir,baizak)kjh
